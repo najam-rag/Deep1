@@ -7,7 +7,5 @@ pytesseract
 faiss-cpu
 PyPDF2
 tqdm
-tesseract-ocr
-poppler-utils
 python3-dev  # Add this
 build-essential  # Add this
