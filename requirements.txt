@@ -9,6 +9,5 @@ PyPDF2
 tqdm
 tesseract-ocr
 poppler-utils
-libgl1
 python3-dev  # Add this
 build-essential  # Add this
