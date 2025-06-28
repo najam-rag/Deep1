@@ -6,5 +6,4 @@ pdf2image
 pytesseract
 faiss-cpu
 tqdm
-python3-dev  # Add this
 build-essential  # Add this
