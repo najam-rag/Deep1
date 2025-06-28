@@ -9,3 +9,4 @@ faiss-cpu
 tqdm
 PyPDF2
 rank_bm25
+unstructured[local-inference]
