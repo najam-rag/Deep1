@@ -10,4 +10,4 @@ tqdm
 PyPDF2
 rank_bm25
 unstructured
-unstructured[local-inference]
+
